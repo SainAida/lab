@@ -49,7 +49,7 @@
    </main>
    <main>
    	<div class="Билеты-container">
-   		<hr style="height:3px;background-color:black;">
+   		<hr style="height:3px;background-color:white;">
    		<h4>Tickets</h4>
    		<p>The museum's programming guides the public to a greater understanding of thought-provoking contemporary photography as well as an appreciation for traditional work that has not yet received critical acclaim. Admission is always free for visitors.</p>
    		<div class="left-column">
